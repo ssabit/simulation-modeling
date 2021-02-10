@@ -19,7 +19,7 @@ Simulation & Modeling Codes
 
 
 
-## Contributors
+## Authors
 
 * **Saad Ibna Omar Sabit** - [linkedin](https://www.linkedin.com/in/sabit/)
 
